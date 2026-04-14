@@ -64,28 +64,4 @@ Use the search below or browse by category.
 
 <script src="search.js"></script>
 
-<hr>
-
-<div class="chatbot-box">
-  <div class="chatbot-header">
-    💬 Student Help Bot
-  </div>
-
-  <div class="chatbot-message">
-    Hi! I can help you find answers quickly.  
-    What do you need help with?
-  </div>
-
-  <div class="chatbot-options">
-    <a href="admissions.html">🎓 Admissions</a>
-    <a href="fees.html">💰 Fees & ECD</a>
-    <a href="slb.html">🏦 Student Loan (SLB)</a>
-    <a href="exams.html">📝 Exams</a>
-    <a href="records.html">📄 Records & Transcripts</a>
-    <a href="accommodation.html">🏠 Accommodation</a>
-    <a href="other.html">❓ Other Questions</a>
-  </div>
-</div>
-
-
 _Last updated: April 2026_
