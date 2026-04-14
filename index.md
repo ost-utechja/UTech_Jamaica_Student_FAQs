@@ -57,3 +57,13 @@ Use the search below or browse by topic.
 ---
 
 💡 **Tips for students**
+- Use **Ctrl + F (Windows)** or **⌘ + F (Mac)** on any page
+- Search works best with **keywords**
+- Tap results to jump directly to the relevant section
+
+---
+
+<!-- Load search functionality -->
+<script src="search.js"></script>
+
+_Last updated: April 2026_
