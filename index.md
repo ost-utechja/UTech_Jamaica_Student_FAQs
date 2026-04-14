@@ -1,11 +1,19 @@
+<!-- Mobile-friendly FAQ Index Page -->
+
+<!-- Load search styles -->
 <link rel="stylesheet" href="style.css">
 
 # Student Frequently Asked Questions (FAQs)
 
-🔍 **Search the FAQs**
+Welcome to the official Student FAQ portal.  
+Use the search below or browse by topic.
+
+---
+
+## 🔍 Search the FAQs
 
 <div class="search-container">
-  <input 
+  <input
     type="search"
     id="searchBox"
     placeholder="Search FAQs (e.g. fees, exams, transcript)"
@@ -17,37 +25,35 @@
 
 ---
 
-Welcome to the official Student FAQ portal.  
-Click a topic below to browse by category.
-
-💡 **Tip:**  
-You can also use **Ctrl + F / ⌘ + F** on any page.
+## 📚 Admissions & Enrollment
+- [Admissions](admissions.md)
+- [Add / Drop Process](add-drop.md)
 
 ---
-
-## 📚 Admissions & Enrollment
-- admissions.md
-- add-drop.md
 
 ## 💰 Fees, Funding & Financial Support
-- fees.md
-- scholarships.md
-- slb.md
-
-## 🏠 Campus Life & Services
-- accommodation.md
-- arts.md
-
-## 📝 Academics & Records
-- exams.md
-- records.md
-
-## 🎓 General Information
-- other.md
-- utechopen.md
+- [Fees & Registration](fees.md)
+- [Scholarships & Sponsorship](scholarships.md)
+- [Students’ Loan Bureau (SLB)](slb.md)
 
 ---
 
-<script src="search.js"></script>
+## 🏠 Campus Life & Services
+- [Accommodation](accommodation.md)
+- [Centre for the Arts](arts.md)
 
-_Last updated: April 2026_
+---
+
+## 📝 Academics & Records
+- [Examinations](exams.md)
+- [Student Records](records.md)
+
+---
+
+## 🎓 General Information
+- [Other FAQs](other.md)
+- [UTechOpen](utechopen.md)
+
+---
+
+💡 **Tips for students**
