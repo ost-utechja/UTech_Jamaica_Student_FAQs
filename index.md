@@ -1,12 +1,10 @@
-<!-- Mobile-friendly FAQ Index Page -->
-
-<!-- Load search styles -->
+<!-- Load mobile-friendly styles -->
 <link rel="stylesheet" href="style.css">
 
 # Student Frequently Asked Questions (FAQs)
 
 Welcome to the official Student FAQ portal.  
-Use the search below or browse by topic.
+Use the search below or browse by category.
 
 ---
 
@@ -26,40 +24,28 @@ Use the search below or browse by topic.
 ---
 
 ## 📚 Admissions & Enrollment
-- [Admissions](admissions.md)
-- [Add / Drop Process](add-drop.md)
+- [Admissions](admissions.html)
+- [Add / Drop Process](add-drop.html)
 
 ---
 
 ## 💰 Fees, Funding & Financial Support
-- [Fees & Registration](fees.md)
-- [Scholarships & Sponsorship](scholarships.md)
-- [Students’ Loan Bureau (SLB)](slb.md)
+- [Fees & Registration](fees.html)
+- [Scholarships](scholarships.html)
+- [Students’ Loan Bureau (SLB)](slb.html)
 
 ---
 
 ## 🏠 Campus Life & Services
-- [Accommodation](accommodation.md)
-- [Centre for the Arts](arts.md)
-
----
-
-## 📝 Academics & Records
-- [Examinations](exams.md)
-- [Student Records](records.md)
-
----
-
-## 🎓 General Information
-- [Other FAQs](other.md)
-- [UTechOpen](utechopen.md)
+- [Accommodation](accommodationently Asked Questions](other.html)
+- [UTechOpen](utechopen.html)
 
 ---
 
 💡 **Tips for students**
 - Use **Ctrl + F (Windows)** or **⌘ + F (Mac)** on any page
-- Search works best with **keywords**
-- Tap results to jump directly to the relevant section
+- Search works best with keywords like *fees*, *loan*, *exam*
+- Tap a result to open the full answer page
 
 ---
 
