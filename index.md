@@ -1,21 +1,42 @@
 # Student Frequently Asked Questions (FAQs)
 
-Welcome! Use your browser’s **Find** feature (Ctrl + F or ⌘ + F) to search for keywords.
+Click a question to see the answer.  
+You can also use **Ctrl + F** (or ⌘ + F) to search by keyword.
 
 ---
 
-## How do I reset my student password?
+<details>
+<summary><strong>How do I reset my student password?</strong></summary>
+
 Visit the student portal and click **Forgot Password**.  
-An email will be sent to your registered email address.
+An email will be sent to your registered email address within 5 minutes.
 
-## Who do I contact for registration issues?
-Email **registrar@school.edu** or visit the Registrar’s Office.
+</details>
 
-## What are office hours?
-Monday to Friday, 8:30 AM – 4:30 PM.
+<details>
+<summary><strong>Who do I contact for registration issues?</strong></summary>
 
-## Where can I get technical help?
-Contact IT Support at **itsupport@school.edu**.
+Email **registrar@school.edu**  
+or visit the Registrar’s Office during business hours.
+
+</details>
+
+<details>
+<summary><strong>What are office hours?</strong></summary>
+
+Monday to Friday  
+**8:30 AM – 4:30 PM**
+
+</details>
+
+<details>
+<summary><strong>Where can I get technical help?</strong></summary>
+
+Contact **IT Support** at  
+📧 itsupport@school.edu  
+📞 876‑555‑1234
+
+</details>
 
 ---
 
