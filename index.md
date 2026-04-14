@@ -1,37 +1,44 @@
 # Student Frequently Asked Questions (FAQs)
 
+🔍 **Search the FAQs**
+<input type="text" id="searchBox" placeholder="Search FAQs..."
+style="width: 100%; padding: 10px; font-size: 16px;">
+
+<div id="searchResults"></div>
+
+---
+
 Welcome to the official Student FAQ portal.  
-Click a topic below to find clear answers to common questions.
+Click a topic below to browse by category.
 
 💡 **Tip for students:**  
-Use **Ctrl + F** (Windows) or **⌘ + F** (Mac) on any page to quickly search for keywords.
+You can also use **Ctrl + F / ⌘ + F** inside any section.
 
 ---
 
 ## 📚 Admissions & Enrollment
-- [Admissions](admissions.md)
-- [Add / Drop Process](add-drop.md)
-
----
+- admissions.md
+- add-drop.md
 
 ## 💰 Fees, Funding & Financial Support
-- [Fees & Registration](fees.md)
-- [Scholarships & Sponsorship](scholarships.md)
-- [Students’ Loan Bureau (SLB)](slb.md)
-
----
+- fees.md
+- scholarships.md
+- slb.md
 
 ## 🏠 Campus Life & Services
-- [Accommodation](accommodation.md)
-- [Centre for the Arts](arts.md)
-
----
+- accommodation.md
+- arts.md
 
 ## 📝 Academics & Records
-- [Examinations](exams.md)
-- [Student Records](records.md)
+- exams.md
+- records.md
+
+## 🎓 General Information
+- other.md
+- utechopen.md
 
 ---
 
-## 🎓 General Information
-- [
+<script src="search.js"></script>
+
+_Last updated: April 2026_
