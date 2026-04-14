@@ -1,7 +1,7 @@
 # Centre for the Arts – Frequently Asked Questions
 
 Click a question to view the answer.  
-Use **Ctrl + F** (or **⌘ + F**) to search by keyword.
+Use Ctrl + F (Windows) or ⌘ + F (Mac) to search within this page.
 
 ---
 
@@ -10,14 +10,14 @@ Use **Ctrl + F** (or **⌘ + F**) to search by keyword.
 
 The Centre for the Arts offers the following services:
 
-1. Theatre productions  
-2. Exhibitions and showcases  
-3. Concerts  
-4. Workshops and seminars  
-5. Tours of the Caribbean Sculpture Park  
-6. Student presentations and productions (conditions apply)  
-7. Video shoots (conditions apply)  
-8. Facility rentals  
+- Theatre productions  
+- Exhibitions and showcases  
+- Concerts  
+- Workshops and seminars  
+- Tours of the Caribbean Sculpture Park  
+- Student presentations and productions (conditions apply)  
+- Video shoots (conditions apply)  
+- Facility rentals  
 
 </details>
 
@@ -26,14 +26,14 @@ The Centre for the Arts offers the following services:
 <details>
 <summary><strong>What is the procedure to access services at the Centre for the Arts?</strong></summary>
 
-To access services:
+To access services offered by the Centre for the Arts:
 
-1. Submit a written request (letter, memo, or email) outlining the details of your activity to tentatively reserve a date and time  
-2. Receive written confirmation regarding availability and applicable contributions  
+1. Submit a written request (letter, memo, or email) outlining the details of your event to tentatively reserve the desired date and time  
+2. Receive written confirmation of availability and any applicable contribution  
 3. Complete the required application form and obtain the necessary approvals  
-4. Submit the original completed form to the Centre for the Arts  
-5. Receive an invoice outlining any required payment  
-6. Submit proof of payment before the event  
+4. Submit the completed application form to the Centre for the Arts  
+5. Receive an invoice outlining the required payment, where applicable  
+6. Submit proof of payment prior to the event  
 
 </details>
 
@@ -42,11 +42,11 @@ To access services:
 <details>
 <summary><strong>What electives can students pursue at the Centre for the Arts?</strong></summary>
 
-Available electives include:
+The Centre for the Arts offers the following electives:
 
-1. Introduction to Dance  
-2. Introduction to Drama and Theatre Arts  
-3. Introduction to Music Theory and Performance  
+- Introduction to Dance  
+- Introduction to Drama and Theatre Arts  
+- Introduction to Music Theory and Performance  
 
 </details>
 
@@ -55,15 +55,15 @@ Available electives include:
 <details>
 <summary><strong>What extracurricular programmes are offered through the Centre for the Arts?</strong></summary>
 
-The Centre for the Arts offers the following extracurricular programmes:
+Extracurricular programmes offered include:
 
-1. Choir  
-2. Drumming  
-3. Steel Pan  
-4. Dance  
-5. Visual Arts  
-6. Instrumental Band  
-7. Drama and Theatre Arts  
+- Choir  
+- Drumming  
+- Steel Pan  
+- Dance  
+- Visual Arts  
+- Instrumental Band  
+- Drama and Theatre Arts  
 
 </details>
 
@@ -73,22 +73,24 @@ The Centre for the Arts offers the following extracurricular programmes:
 <summary><strong>Who can participate in the extracurricular programmes?</strong></summary>
 
 Extracurricular programmes are open to:
+
 - Students  
 - Staff  
 - Members of the wider Papine community  
 
-Participation is open to anyone interested in creative and artistic expression.
+Participation is available to anyone interested in artistic self‑expression.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>What are the costs for services at the Centre for the Arts?</strong></summary>
+<summary><strong>What are the costs for services offered by the Centre for the Arts?</strong></summary>
 
-Rates vary depending on:
+Costs vary depending on:
+
 - The nature of the event  
-- Duration of use  
+- Duration of usage  
 - Concessions for internal users, cultural stakeholders, and UTech students  
 
 </details>
@@ -98,9 +100,18 @@ Rates vary depending on:
 <details>
 <summary><strong>How can I contact the Centre for the Arts?</strong></summary>
 
-**Centre for the Arts**  
+Centre for the Arts  
 Advancement Division  
 University of Technology, Jamaica  
 237 Old Hope Road  
-Kingston 6, Jamaica
+Kingston 6, Jamaica  
 
+Telephone: 876‑970‑5019  
+Email: culture@utech.edu.jm  
+Alternate email: cfa.utechjamaica@gmail.com  
+
+</details>
+
+---
+
+_Last updated: April 2026_
