@@ -8,7 +8,7 @@ Use Ctrl + F (Windows) or ⌘ + F (Mac) to search within this page.
 <details>
 <summary><strong>How do I apply?</strong></summary>
 
-All applicants are encouraged to apply online via the University of Technology, Jamaica website.<br/>
+All applicants are encouraged to apply online via the University of Technology, Jamaica website. TEST<br/>
 
 Supporting documents include:
 - Academic certificates  
