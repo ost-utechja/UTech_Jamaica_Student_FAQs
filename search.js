@@ -19,10 +19,10 @@ fetch('search-index.json')
         return;
       }
 
-      matches.forEach(item => {
-        const result = document.createElement('p');
-        result.innerHTML = `<a href="${item.url}"><strong>${item.title}</strong></a>`;
-        resultsDiv.appendChild(result);
-      });
+matches.forEach(item => {
+  const result = document.createElement('p');
+  result.innerHTML = `<a href="${item.url}"><strong>${item.title}</strong></a>`;
+  resultsDiv.appendChild(result);
+});
     });
   });
