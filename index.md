@@ -5,21 +5,6 @@ Use the search below or browse by category.
 
 ---
 
-## 🔍 Search the FAQs
-
-<div class="search-container">
-  <input
-    type="search"
-    id="searchBox"
-    placeholder="Search FAQs (e.g. fees, exams, transcript)"
-    aria-label="Search FAQs"
-  >
-</div>
-
-<div id="searchResults" class="search-results"></div>
-
----
-
 <div style="text-align: right; margin-bottom: 10px;">
   <button id="themeToggle" style="
     padding: 8px 12px;
@@ -34,6 +19,21 @@ Use the search below or browse by category.
   </button>
 </div>
 ``
+
+## 🔍 Search the FAQs
+
+<div class="search-container">
+  <input
+    type="search"
+    id="searchBox"
+    placeholder="Search FAQs (e.g. fees, exams, transcript)"
+    aria-label="Search FAQs"
+  >
+</div>
+
+<div id="searchResults" class="search-results"></div>
+
+---
 
 <strong>Browse by category:</strong>
 
