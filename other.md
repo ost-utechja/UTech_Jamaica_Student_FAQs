@@ -233,5 +233,6 @@ Continued underperformance may result in discontinuation from the course of stud
 </details>
 
 ---
+<script src="theme.js"></script>
 
 _Last updated: April 2026_
