@@ -18,7 +18,7 @@ For additional information about available courses, schedules, or registration, 
 
 Telephone extensions:<br>
 - 2087<br>
-- 386‑8<br><br>
+- 3868<br><br>
 
 Email:<br>
 utechopen@utech.edu.jm
