@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Students’ Loan Bureau (SLB) – Frequently Asked Questions
 
 This page explains how Students’ Loan Bureau (SLB) funding works and how it affects registration and fees.<br>
