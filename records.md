@@ -95,7 +95,7 @@ The Admissions Office will arrange for a corrected replacement through the Safet
 </details>
 
 ---
-<script src="theme.js"></script>
+theme.jsscript>
 
 _Last updated: April 2026_
 ``
