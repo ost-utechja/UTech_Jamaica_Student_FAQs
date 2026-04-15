@@ -1,14 +1,16 @@
 # Students’ Loan Bureau (SLB) – Frequently Asked Questions
 
-Click a question to view the answer.  
-Use Ctrl + F (Windows) or ⌘ + F (Mac) to search within this page.
+This page explains how Students’ Loan Bureau (SLB) funding works and how it affects registration and fees.<br>
+Click a question to view the full answer.
 
 ---
 
 <details>
-<summary><strong>If I have applied for a Student Loan, am I required to pay the Enrolment Commitment Deposit (ECD)?</strong></summary>
+<summary><strong>If I have applied for a Student Loan, am I still required to pay the Enrolment Commitment Deposit (ECD)?</strong></summary>
 
-Yes. All students are required to pay the Enrolment Commitment Deposit in order to access module selection, even if they have applied for a Student Loan.
+Yes.<br><br>
+
+All students are required to pay the Enrolment Commitment Deposit in order to access module selection, even if they have applied for a Student Loan.
 
 </details>
 
@@ -17,150 +19,157 @@ Yes. All students are required to pay the Enrolment Commitment Deposit in order 
 <details>
 <summary><strong>How will I know if my Student Loan has been approved?</strong></summary>
 
-Students may check their loan approval status by logging into the Students’ Loan Bureau student portal.
+You can check the status of your Student Loan by logging in to the Students’ Loan Bureau student portal.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Do I need to notify the University of my Student Loan status?</strong></summary>
+<summary><strong>Do I need to notify the University of my SLB loan status?</strong></summary>
 
-No. The Students’ Loan Bureau communicates loan approval and status updates directly to the University.
+No.<br><br>
 
-</details>
-
----
-
-<details>
-<summary><strong>What loan status is used by the University to update my loan information?</strong></summary>
-
-Loans with a status of “D” are used by the University to update student loan records.
+The Students’ Loan Bureau communicates approved loan information directly to the University.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Will I receive financial clearance once my loan information is updated?</strong></summary>
+<summary><strong>Which SLB loan status is used by the University to update my record?</strong></summary>
 
-Yes. Once the Student Loan information is updated on the University system, financial clearance will be granted.
-
-</details>
-
----
-
-<details>
-<summary><strong>How do I know the amount the Students’ Loan Bureau will pay toward my tuition?</strong></summary>
-
-The approved loan amount:
-
-- Is detailed in the student’s loan contract with the Students’ Loan Bureau  
-- Is updated on the University system  
-- Can be viewed in the student portal under “Sponsors to My Account”  
+Loans with a status of “D” are used by the University to update student records.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Will the University communicate my registration status to the Students’ Loan Bureau?</strong></summary>
+<summary><strong>Will I receive financial clearance once my SLB loan is updated on the system?</strong></summary>
 
-Yes. The University communicates students’ registration status directly to the Students’ Loan Bureau.
+Yes.<br><br>
 
-</details>
-
----
-
-<details>
-<summary><strong>How does the Students’ Loan Bureau remit tuition payments to the University?</strong></summary>
-
-The Students’ Loan Bureau remits tuition payments after the student is registered and the registration status is communicated.
-
-Payments are based on the student’s semester invoice.
+Once your SLB loan information has been updated on the University’s system, financial clearance will be granted.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>If I paid my fees and later receive Student Loan approval, when will I be refunded?</strong></summary>
+<summary><strong>How do I know how much SLB will pay towards my tuition?</strong></summary>
 
-A refund can be processed only after the Students’ Loan Bureau remits payment to the University.
+The approved loan amount is stated in your contract with the Students’ Loan Bureau.<br><br>
 
-Students will be refunded their portion of the fees where applicable.
-
-</details>
-
----
-
-<details>
-<summary><strong>How does the University treat excess funds received from the Students’ Loan Bureau?</strong></summary>
-
-The Students’ Loan Bureau pays tuition and examination fees only.
-
-Any excess funds received must be returned to the Students’ Loan Bureau by the University.
+This amount is also updated on the University’s system and can be viewed on the student portal under “Sponsors to My Account”.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>What happens if the Students’ Loan Bureau remits less than my tuition amount?</strong></summary>
+<summary><strong>Will the University inform SLB of my registration status?</strong></summary>
 
-Any shortfall becomes the student’s responsibility and must be paid to the University.
+Yes.<br><br>
 
-</details>
-
----
-
-<details>
-<summary><strong>If my loan is approved, will the University ensure that the Students’ Loan Bureau pays on my behalf?</strong></summary>
-
-No. It is the responsibility of the student to follow up with the Students’ Loan Bureau to ensure payment is remitted to the University.
+Once you complete registration, the University communicates your registration status to the Students’ Loan Bureau.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>How can I view Student Loan payments made to my account?</strong></summary>
+<summary><strong>How does SLB pay my tuition fees to the University?</strong></summary>
 
-Students whose fees are paid by the Students’ Loan Bureau should log into the student portal and view sponsor payments under their account summary.
+SLB makes tuition payments based on the semester invoice after students are registered.<br><br>
 
-</details>
-
----
-
-<details>
-<summary><strong>If the Students’ Loan Bureau pays my tuition fees, will I also receive Grant‑In‑Aid?</strong></summary>
-
-Grant‑In‑Aid is awarded at the discretion of the Students’ Loan Bureau based on financial need.
-
-Students should confirm their Grant‑In‑Aid status directly with the Students’ Loan Bureau.
+Payments are sent directly to the University.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Can I receive Grant‑In‑Aid without taking a Student Loan?</strong></summary>
+<summary><strong>If I pay my fees and later receive SLB approval, will I be refunded?</strong></summary>
 
-No. Grant‑In‑Aid is awarded only to students who have been approved for a Student Loan and assessed as financially needy.
+Yes, in some cases.<br><br>
+
+Refunds can only be processed after SLB has remitted payment to the University.<br><br>
+
+Students will be refunded their portion of the payment where applicable.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>What happens if I receive a full scholarship after being approved for a Student Loan?</strong></summary>
+<summary><strong>How does the University handle excess funds received from SLB?</strong></summary>
 
-Students who receive a full scholarship after loan approval must complete and sign a declaration form indicating whether they wish to:
+The Students’ Loan Bureau provides funding for tuition and examination fees only.<br><br>
 
-- Retain both the loan and the scholarship, or  
-- Return the loan  
+Any excess funds received by the University must be returned to SLB.
 
-The declaration form must be submitted through the Scholarship Office, which forwards it to the Students’ Loan Bureau.
+</details>
+
+---
+
+<details>
+<summary><strong>What happens if SLB pays less than my total tuition?</strong></summary>
+
+If SLB remits less than the total tuition amount, the remaining balance becomes the student’s responsibility and must be paid to the University.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Will the University ensure that SLB pays my fees on my behalf?</strong></summary>
+
+No.<br><br>
+
+It is the student’s responsibility to ensure that all required processes are completed with SLB and that payments are remitted on time.
+
+</details>
+
+---
+
+<details>
+<summary><strong>How can I view payments made by SLB on my student account?</strong></summary>
+
+Students can view SLB payments by logging in to the student portal and checking the sponsor payment information associated with their account.
+
+</details>
+
+---
+
+<details>
+<summary><strong>If SLB pays my fees, will I also receive the Grant‑In‑Aid?</strong></summary>
+
+Grant‑In‑Aid is awarded at the discretion of the Students’ Loan Bureau after assessing financial need.<br><br>
+
+Students should confirm directly with SLB whether they have been approved for Grant‑In‑Aid.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Can I receive Grant‑In‑Aid without taking the loan?</strong></summary>
+
+No.<br><br>
+
+Grant‑In‑Aid is awarded only to students who qualify for and receive a Student Loan.
+
+</details>
+
+---
+
+<details>
+<summary><strong>What happens if I receive a full scholarship after being approved for an SLB loan?</strong></summary>
+
+If you receive a full scholarship after SLB approval, you must complete a declaration form indicating whether you wish to keep the loan or return it.<br><br>
+
+This form must be submitted through the Scholarship Office, which will forward the request to SLB on your behalf.
 
 </details>
 
