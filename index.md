@@ -1,5 +1,4 @@
-<!-- Load site styles -->
-style.css
+<link rel="stylesheet" href="style.css">
 
 # Student Frequently Asked Questions (FAQs)
 
