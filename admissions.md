@@ -209,5 +209,6 @@ Mature Entry applicants are assessed individually and are required to submit a s
 </details>
 
 ---
+theme.jsscript>
 
 _Last updated: April 2026_
