@@ -2,6 +2,8 @@
 
 # Student Frequently Asked Questions (FAQs)
 
+<main>
+
 Welcome to the official Student FAQ portal.  
 Use the search below or browse by category.
 
@@ -64,6 +66,6 @@ Use the search below or browse by category.
 
 ---
 
-<script src="search.js"></script>
+</main>
 
 _Last updated: April 2026_
