@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>UTech Jamaica – Student FAQs</title>
+
+  <!-- Global Styles -->
+  <link rel="stylesheet" href="style.css">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <h1>UTech Jamaica – Student FAQs</h1>
+
+    <!-- Global Search -->
+    <input
+      type="search"
+      id="searchInput"
+      placeholder="Search all FAQs…"
+      aria-label="Search FAQs"
+    />
+
+    <button id="themeToggle" aria-label="Toggle theme">
+      Toggle Theme
+    </button>
+  </header>
+
+  <!-- Search Results -->
+  <section class="search-section">
+    <ul id="searchResults"></ul>
+    <p id="noResults" hidden>No results found. Try different keywords.</p>
+  </section>
+
+  <!-- Main Content -->
+  <main class="content">
+    <p>
+      Welcome to the University of Technology, Jamaica Student FAQs.
+      Select a category below or use the search bar above.
+    </p>
+
+    <nav class="faq-nav">
+      <ul>
+        <li><a href="admissions.html">Admissions</a></li>
+        <li><a href="add-drop.html">Add / Drop</a></li>
+        <li><a href="fees.html">Fees</a></li>
+        <li><a href="exams.html">Examinations</a></li>
+        <li><a href="records.html">Student Records</a></li>
+        <li><a href="scholarships.html">Scholarships</a></li>
+        <li><a href="other.html">Other FAQs</a></li>
+      </ul>
+    </nav>
+  </main>
+
+  <!-- Scripts -->
+  <script src="search.js" defer></script>
+  <script src="theme.js" defer></script>
+
+</body>
+</html>
