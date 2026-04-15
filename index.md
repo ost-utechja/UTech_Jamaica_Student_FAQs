@@ -1,5 +1,5 @@
 <!-- Load site styles -->
-style.css
+<link rel="stylesheet" href="style.css">
 
 # Student Frequently Asked Questions (FAQs)
 
@@ -32,33 +32,33 @@ Use the search below or browse by category.
 ---
 
 ## 📚 Admissions & Enrollment
-- Admissions
-- Add / Drop Process
+- <a href="admissions.html">Admissions</a>
+- <a href="add-drop.html">Add / Drop Process</a>
 
 ---
 
 ## 💰 Fees, Funding & Financial Support
-- Fees & Registration
-- Scholarships
-- Student Loan Bureau (SLB)
+- <a href="fees.html">Fees & Registration</a>
+- <a href="scholarships.html">Scholarships</a>
+- <a href="slb.html">Student Loan Bureau (SLB)</a>
 
 ---
 
 ## 🏠 Campus Life & Services
-- Accommodation
-- Centre for the Arts
+- <a href="accommodation.html">Accommodation</a>
+- <a href="arts.html">Centre for the Arts</a>
 
 ---
 
 ## 📝 Academics & Records
-- Examinations
-- Student Records
+- <a href="exams.html">Examinations</a>
+- <a href="records.html">Student Records</a>
 
 ---
 
 ## 🎓 General Information
-- Other FAQs
-- UTechOpen
+- <a href="other.html">Other FAQs</a>
+- <a href="utechopen.html">UTechOpen</a>
 
 ---
 
@@ -69,9 +69,14 @@ Use the search below or browse by category.
   • Click a category to see all related questions
 </div>
 
+---
+
 </main>
 
-search.jsscript>
-theme.jsscript>
+<!-- Load search functionality -->
+<script src="search.js"></script>
+
+<!-- Load theme toggle (if used) -->
+<script src="theme.js"></script>
 
 _Last updated: April 2026_
