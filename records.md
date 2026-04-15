@@ -1,37 +1,41 @@
 # Student Records – Frequently Asked Questions
 
-Click a question to view the answer.  
-Use Ctrl + F (Windows) or ⌘ + F (Mac) to search within this page.
+This page provides information about transcripts, status letters, and student identification records.<br>
+Click a question to view the full answer.
 
 ---
 
 <details>
 <summary><strong>How do I get a letter to verify that I am a registered student?</strong></summary>
 
-The Student Records Office prepares and issues official academic documents, including:
+The Student Records Office prepares and issues official academic documents, including:<br><br>
 
-- Status letters  
-- Transcripts  
-- Statements  
-- Other academic records  
+- Status letters<br>
+- Transcripts<br>
+- Statements<br>
+- Other academic record documents<br><br>
 
-The Student Records Office is located on the ground floor of the Administration Building.
+The Student Records Office is located on the ground floor of the Administration Building.<br><br>
 
-For assistance, students may contact the office via email.
+For assistance, students may contact the office at:<br>
+studentrecords@utech.edu.jm
 
 </details>
 
 ---
 
 <details>
-<summary><strong>How do I apply for an academic record?</strong></summary>
+<summary><strong>How do I apply for an academic record such as a transcript or status letter?</strong></summary>
 
-Requests for academic records, including transcripts and status letters, are made online.
+Requests for academic records are made online.<br><br>
 
-To apply:
-1. Visit the University’s website  
-2. Select the Online Academic Record Request System  
-3. Follow the instructions to submit your request  
+To apply:<br><br>
+
+1. Visit the University’s website<br>
+2. Select the Online Academic Record Request System<br>
+3. Follow the instructions provided and submit your request<br><br>
+
+If additional help is needed, students may contact the Student Records Office.
 
 </details>
 
@@ -40,14 +44,15 @@ To apply:
 <details>
 <summary><strong>How do I apply for an official academic transcript?</strong></summary>
 
-A transcript request must be submitted through the Online Academic Record Request System.
+Transcript requests are processed through the Online Academic Record Request System.<br><br>
 
-Applicable fees:
-- Transcript: JA$1,000  
-- Status Letter or Statement: JA$1,000  
+The applicable fees are:<br><br>
 
-Students with alphanumeric identification numbers are required to make payments at the Accounts Department.  
-Students with numeric identification numbers may pay at approved agencies.
+- Transcript: JA$1,000<br>
+- Status Letter or Statement: JA$1,000<br><br>
+
+Students with alphanumeric identification numbers must make payments at the Accounts Department.<br>
+Students with numeric identification numbers may use approved payment agencies.
 
 </details>
 
@@ -56,10 +61,10 @@ Students with numeric identification numbers may pay at approved agencies.
 <details>
 <summary><strong>How do I apply for a change of name on my student record?</strong></summary>
 
-To request a change of name:
+To request a name change:<br><br>
 
-1. Complete a Change of Information form  
-2. Submit the completed form to the Student Records Office  
+1. Complete a Change of Information form<br>
+2. Submit the completed form to the Student Records Office in the Administration Building<br><br>
 
 Name changes cannot be processed after a student has left the University.
 
@@ -70,11 +75,11 @@ Name changes cannot be processed after a student has left the University.
 <details>
 <summary><strong>How do I replace my student identification card if it is lost?</strong></summary>
 
-To replace a lost identification card:
+If your student identification card is lost, you must complete the following steps:<br><br>
 
-1. Pay the JA$1,000 replacement fee at Accounts Receivable  
-2. Take the receipt to the Admissions Office  
-3. The Admissions Office will coordinate with the Safety and Security Department for a replacement  
+1. Pay the JA$1,000 replacement fee at Accounts Receivable<br>
+2. Take the payment receipt to the Admissions Office<br>
+3. The Admissions Office will coordinate with the Safety and Security Department for the replacement of the card<br>
 
 </details>
 
@@ -83,12 +88,13 @@ To replace a lost identification card:
 <details>
 <summary><strong>How do I correct incorrect information on my student identification card?</strong></summary>
 
-Students should report incorrect information on their identification card to the Admissions Office.
+If information on your student identification card is incorrect, you should report the issue to the Admissions Office.<br><br>
 
-The Admissions Office will arrange for the information to be corrected and a replacement card to be issued where necessary.
+The Admissions Office will arrange for a corrected replacement through the Safety and Security Department.
 
 </details>
 
 ---
 
 _Last updated: April 2026_
+``
