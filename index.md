@@ -20,6 +20,21 @@ Use the search below or browse by category.
 
 ---
 
+<div style="text-align: right; margin-bottom: 10px;">
+  <button id="themeToggle" style="
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    background-color: #003a8f;
+    color: white;
+    font-weight: 600;
+  ">
+    🌙 Dark mode
+  </button>
+</div>
+``
+
 <strong>Browse by category:</strong>
 
 ---
