@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Student Records – Frequently Asked Questions
 
 This page provides information about transcripts, status letters, and student identification records.<br>
