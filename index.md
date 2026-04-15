@@ -18,7 +18,6 @@ Use the search below or browse by category.
     🌙 Dark mode
   </button>
 </div>
-``
 
 ## 🔍 Search the FAQs
 
