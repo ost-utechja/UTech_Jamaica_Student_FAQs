@@ -1,2 +1,2 @@
-# student-faqs
+# UTech, Jamaica Student FAQs
 FAQs for students
