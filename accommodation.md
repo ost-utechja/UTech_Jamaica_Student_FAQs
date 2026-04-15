@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Accommodation – Frequently Asked Questions
 
 This page provides information about on‑campus and related accommodation options.<br>
