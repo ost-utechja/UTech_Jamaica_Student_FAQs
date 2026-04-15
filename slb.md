@@ -174,6 +174,6 @@ This form must be submitted through the Scholarship Office, which will forward t
 </details>
 
 ---
-<script src="theme.js"></script>
+theme.jsscript>
 
 _Last updated: April 2026_
