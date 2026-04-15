@@ -1,9 +1,7 @@
 <!-- Load site styles -->
-<link rel="stylesheet" href="style.css">
+style.css
 
 # Student Frequently Asked Questions (FAQs)
-
-<main>
 
 Welcome to the official Student FAQ portal.<br>
 Use the search below or browse by category.
@@ -25,58 +23,45 @@ Use the search below or browse by category.
 
 ---
 
-<div class="section-header">
-  Browse by category
-</div>
-
----
-
 ## 📚 Admissions & Enrollment
-- <a href="admissions.html">Admissions</a>
-- <a href="add-drop.html">Add / Drop Process</a>
+- [Admissions](admissions.html)
+- [Add / Drop Process](add-drop.html)
 
 ---
 
 ## 💰 Fees, Funding & Financial Support
-- <a href="fees.html">Fees & Registration</a>
-- <a href="scholarships.html">Scholarships</a>
-- <a href="slb.html">Student Loan Bureau (SLB)</a>
+- [Fees & Registration](fees.html)
+- [Scholarships](scholarships.html)
+- [Student Loan Bureau (SLB)](slb.html)
 
 ---
 
 ## 🏠 Campus Life & Services
-- <a href="accommodation.html">Accommodation</a>
-- <a href="arts.html">Centre for the Arts</a>
+- [Accommodation](accommodation.html)
+- [Centre for the Arts](arts.html)
 
 ---
 
 ## 📝 Academics & Records
-- <a href="exams.html">Examinations</a>
-- <a href="records.html">Student Records</a>
+- [Examinations](exams.html)
+- [Student Records](records.html)
 
 ---
 
 ## 🎓 General Information
-- <a href="other.html">Other FAQs</a>
-- <a href="utechopen.html">UTechOpen</a>
+- [Other FAQs](other.html)
+- [UTechOpen](utechopen.html)
 
 ---
 
-<div class="tips-box">
-  <strong>Helpful tips for students</strong><br><br>
-  • Use Ctrl + F (Windows) or ⌘ + F (Mac) inside any page<br>
-  • Search works best using keywords like “fees”, “loan”, or “exam”<br>
-  • Click a category to see all related questions
-</div>
+## 💡 Helpful tips
+- Use Ctrl + F (Windows) or ⌘ + F (Mac) to search within pages<br>
+- The search box works best using keywords like “fees”, “loan”, or “exam”<br>
+- Click any category above to see detailed questions and answers
 
 ---
 
-</main>
-
-<!-- Load search functionality -->
-<script src="search.js"></script>
-
-<!-- Load theme toggle (if used) -->
-<script src="theme.js"></script>
+search.jsscript>
+theme.jsscript>
 
 _Last updated: April 2026_
