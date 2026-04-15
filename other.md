@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Other Frequently Asked Questions
 
 This section covers general academic and administrative questions that students commonly ask.<br>
