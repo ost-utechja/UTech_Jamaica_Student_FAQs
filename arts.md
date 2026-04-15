@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Centre for the Arts – Frequently Asked Questions
 
 This page outlines the services, programmes, and opportunities available through the Centre for the Arts.<br>
