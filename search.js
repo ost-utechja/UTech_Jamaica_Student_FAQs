@@ -1,28 +1,65 @@
-fetch('search-index.json')
-  .then(response => response.json())
-  .then(data => {
-    const input = document.getElementById('searchBox');
-    const resultsDiv = document.getElementById('searchResults');
+const input = document.getElementById("searchInput");
+const results = document.getElementById("searchResults");
+const noResults = document.getElementById("noResults");
 
-    input.addEventListener('keyup', function () {
-      const query = this.value.toLowerCase();
-      resultsDiv.innerHTML = '';
+let data = [];
 
-      if (query.length < 3) return;
+// Load index
+fetch("search-index.json")
+  .then(res => res.json())
+  .then(json => data = json);
 
-      const matches = data.filter(item =>
-        item.content.toLowerCase().includes(query)
+// Simple fuzzy matcher
+function fuzzyMatch(text, query) {
+  return text.includes(query) || levenshtein(text, query) <= 2;
+}
+
+function levenshtein(a, b) {
+  const dp = Array.from({ length: b.length + 1 }, (_, i) => [i]);
+  for (let j = 1; j <= a.length; j++) dp[0][j] = j;
+
+  for (let i = 1; i <= b.length; i++) {
+    for (let j = 1; j <= a.length; j++) {
+      dp[i][j] = Math.min(
+        dp[i - 1][j] + 1,
+        dp[i][j - 1] + 1,
+        dp[i - 1][j - 1] + (a[j - 1] === b[i - 1] ? 0 : 1)
       );
+    }
+  }
+  return dp[b.length][a.length];
+}
 
-      if (matches.length === 0) {
-        resultsDiv.innerHTML = '<p><em>No results found.</em></p>';
-        return;
-      }
+function highlight(text, query) {
+  const regex = new RegExp(`(${query})`, "gi");
+  return text.replace(regex, "<mark>$1</mark>");
+}
 
-matches.forEach(item => {
-  const result = document.createElement('p');
-  result.innerHTML = `<a href="${item.url}"><strong>${item.title}</strong></a>`;
-  resultsDiv.appendChild(result);
-});
-    });
+input.addEventListener("input", () => {
+  const q = input.value.trim().toLowerCase();
+  results.innerHTML = "";
+  noResults.hidden = true;
+
+  if (!q) return;
+
+  const matches = data.filter(item =>
+    fuzzyMatch(item.title.toLowerCase(), q) ||
+    fuzzyMatch(item.content.toLowerCase(), q)
+  );
+
+  if (matches.length === 0) {
+    noResults.hidden = false;
+    return;
+  }
+
+  matches.forEach(item => {
+    const li = document.createElement("li");
+    li.innerHTML = `
+      <a href="${
+        ${highlight(item.title, q)}
+      </a>
+      <p>${highlight(item.content, q)}</p>
+    `;
+    results.appendChild(li);
   });
+});
