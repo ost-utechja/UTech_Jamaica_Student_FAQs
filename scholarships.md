@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Scholarships & Sponsorship – Frequently Asked Questions
 
 This page explains scholarships and sponsorship arrangements available to students.<br>
