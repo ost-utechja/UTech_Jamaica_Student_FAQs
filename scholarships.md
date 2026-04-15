@@ -108,6 +108,7 @@ Delays may occur if documents are incomplete or not formally submitted.
 </details>
 
 ---
+<script src="theme.js"></script>
 
 _Last updated: April 2026_
 ``
