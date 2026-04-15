@@ -1,42 +1,32 @@
 [
   {
-    "title": "Admissions",
-    "url": "admissions.html",
-    "content": "apply application documents transcripts mature student admission"
+    "id": 1,
+    "title": "How do I apply to UTech Jamaica?",
+    "content": "You can apply to UTech Jamaica online through the UCAS system or the university's official admissions portal.",
+    "url": "#apply"
   },
   {
-    "title": "Fees & Registration",
-    "url": "fees.html",
-    "content": "tuition payment ecd balance clearance registration fees"
+    "id": 2,
+    "title": "What documents are required for admission?",
+    "content": "Applicants must submit certified copies of academic transcripts, identification, and supporting documents.",
+    "url": "#documents"
   },
   {
-    "title": "Scholarships",
-    "url": "scholarships.html",
-    "content": "scholarship sponsor funding cheque refund"
+    "id": 3,
+    "title": "How do I reset my student portal password?",
+    "content": "To reset your password, visit the UTech Jamaica student portal and click on the 'Forgot Password' option.",
+    "url": "#password-reset"
   },
   {
-    "title": "Student Loan Bureau",
-    "url": "slb.html",
-    "content": "loan slb grant aid tuition payment"
+    "id": 4,
+    "title": "Where can I pay my tuition fees?",
+    "content": "Tuition fees can be paid online via the UTech payment portal or at approved bank branches.",
+    "url": "#tuition"
   },
   {
-    "title": "Accommodation",
-    "url": "accommodation.html",
-    "content": "housing dorm residence boarding"
-  },
-  {
-    "title": "Examinations",
-    "url": "exams.html",
-    "content": "exam timetable clash sickness medical"
-  },
-  {
-    "title": "Student Records",
-    "url": "records.html",
-    "content": "transcript ID letter records"
-  },
-  {
-    "title": "Other FAQs",
-    "url": "other.html",
-    "content": "graduation probation transfer leave"
+    "id": 5,
+    "title": "Who do I contact for academic advising?",
+    "content": "Students should contact their assigned faculty advisor or the academic affairs office.",
+    "url": "#advising"
   }
 ]
