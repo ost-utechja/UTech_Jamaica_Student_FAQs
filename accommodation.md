@@ -40,3 +40,55 @@ Office hours: Monday to Friday, 8:00 a.m. to 4:00 p.m.
 ---
 
 <details>
+<summary><strong>If I live in a dorm, do I have to leave during holidays?</strong></summary>
+
+Yes.<br><br>
+
+Accommodation fees cover the semester period only.<br><br>
+
+Students are required to vacate the dormitories at the end of each semester.<br><br>
+
+If you require accommodation beyond the semester period, you should contact the Accommodation Office for guidance and approval.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Do male and female students share accommodation facilities?</strong></summary>
+
+No.<br><br>
+
+Male and female students do not share accommodation facilities.
+
+</details>
+
+---
+
+<details>
+<summary><strong>What measures are in place to ensure student safety on campus?</strong></summary>
+
+Student safety is a priority of the University.<br><br>
+
+Security measures include:<br>
+- Security personnel on duty 24 hours per day<br>
+- Electronic security systems installed across the campus<br>
+
+</details>
+
+---
+
+<details>
+<summary><strong>How do international students apply for accommodation?</strong></summary>
+
+International students follow the same accommodation application process as local students.<br><br>
+
+For additional assistance, international students may contact the International Students’ Office:<br>
+Telephone: (876) 970‑5194 or 970‑5179<br>
+Email: jsinclair@utech.edu.jm
+
+</details>
+
+---
+
+_Last updated: April 2026_
