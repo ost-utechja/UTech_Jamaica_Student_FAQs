@@ -1,20 +1,23 @@
 # Other Frequently Asked Questions
 
-Click a question to view the answer.  
-Use Ctrl + F (Windows) or ⌘ + F (Mac) to search within this page.
+This section covers general academic and administrative questions that students commonly ask.<br>
+Click a question to view the full answer.
 
 ---
 
 <details>
 <summary><strong>How do I take a break from my studies?</strong></summary>
 
-To take a break from your studies, you must:
+If you need to take a break from your studies, you are required to submit formal documentation.<br><br>
 
-1. Complete a CSAAC or FSAAC form to request either a leave of absence or withdrawal  
-2. Submit the form to your College, Faculty, or the Student Relations Office in the Student Services Building  
+To do so:<br><br>
 
-Approval is normally granted for one academic year.  
-This period is excluded from the time allowed to complete your programme.
+1. Complete a CSAAC or FSAAC form to request either a leave of absence or withdrawal<br>
+2. Submit the completed form to your College, Faculty, or the Student Relations Office in the Student Services Building<br><br>
+
+Approval is normally granted for one academic year.<br><br>
+
+This approved period is excluded when calculating the time allowed to complete your programme.
 
 </details>
 
@@ -23,10 +26,10 @@ This period is excluded from the time allowed to complete your programme.
 <details>
 <summary><strong>What is the procedure for re‑entering the University after a period of absence?</strong></summary>
 
-To re‑enter the University after a period of absence:
+If you wish to return to the University after taking a break:<br><br>
 
-1. Complete an Application for Readmission form  
-2. Submit the completed form to the Admissions Office  
+1. Complete an Application for Readmission form<br>
+2. Submit the completed form to the Admissions Office<br>
 
 </details>
 
@@ -35,11 +38,11 @@ To re‑enter the University after a period of absence:
 <details>
 <summary><strong>When do students register at the University?</strong></summary>
 
-Registration takes place three times per year:
+Students register three times per academic year:<br><br>
 
-- Semester 1: July to August  
-- Semester 2: January  
-- Summer Session  
+- Semester 1: July to August<br>
+- Semester 2: January<br>
+- Summer Session<br>
 
 </details>
 
@@ -55,9 +58,9 @@ Examination results are accessed through the e:Vision Student Portal.
 ---
 
 <details>
-<summary><strong>Who should I speak to if a module is missing from my programme diet?</strong></summary>
+<summary><strong>Who should I speak with if a module is missing from my programme diet?</strong></summary>
 
-Students should speak with the Student Affairs Assistant in their College, Faculty, or School office.
+If you notice that a module is missing from your programme diet, you should speak with the Student Affairs Assistant in your College, Faculty, or School office.
 
 </details>
 
@@ -66,12 +69,14 @@ Students should speak with the Student Affairs Assistant in their College, Facul
 <details>
 <summary><strong>Can I redo a module without attending classes?</strong></summary>
 
-No. Students are required to:
+No.<br><br>
 
-- Register for the failed module  
-- Attend all scheduled classes  
-- Complete all coursework requirements  
-- Sit the final examination if applicable  
+If you are required to redo a module, you must:<br><br>
+
+- Register for the failed module<br>
+- Attend all scheduled classes<br>
+- Complete all coursework requirements<br>
+- Sit the final examination, if applicable<br>
 
 </details>
 
@@ -80,10 +85,10 @@ No. Students are required to:
 <details>
 <summary><strong>Under what conditions may I request a grade review?</strong></summary>
 
-A grade review may be requested only if:
+A grade review may be requested only under specific circumstances, such as:<br><br>
 
-- There were extenuating circumstances that were not known to the examiners, or  
-- There is evidence of irregularities in the conduct of the examination  
+- If there were extenuating circumstances not known to the examiners at the time of assessment<br>
+- If there is evidence of irregularities in the conduct of the examination<br>
 
 </details>
 
@@ -92,13 +97,13 @@ A grade review may be requested only if:
 <details>
 <summary><strong>How do I apply for a grade review?</strong></summary>
 
-To apply for a grade review:
+To apply for a grade review, you must complete the following steps:<br><br>
 
-1. Complete the Application for Grade Review form  
-2. Pay the required fee of JA$650 per credit at Accounts Receivable  
-3. Submit the completed form and receipt to your College, Faculty, or School office  
+1. Complete an Application for Grade Review form<br>
+2. Pay the required fee of JA$650 per credit at Accounts Receivable<br>
+3. Submit the completed form along with the payment receipt to your College, Faculty, or School office<br><br>
 
-Applications must be submitted within two weeks of results being published.
+Applications must be submitted within two weeks of examination results being published.
 
 </details>
 
@@ -107,15 +112,15 @@ Applications must be submitted within two weeks of results being published.
 <details>
 <summary><strong>How do I apply for a transfer?</strong></summary>
 
-A transfer involves changing a campus or course specialisation.
+A transfer is required if you wish to change your campus or course specialisation.<br><br>
 
-To apply for a transfer:
+To apply for a transfer:<br><br>
 
-1. Complete the Request for Transfer form in triplicate  
-2. Submit the form to your Programme Director at least six weeks before the semester begins  
-3. Submit the application no later than July 31  
+1. Complete the Request for Transfer form in triplicate<br>
+2. Submit the form to your Programme Director at least six weeks before the start of the semester<br>
+3. Ensure the application is submitted no later than July 31<br><br>
 
-Transfers are not automatic and depend on academic standing, aptitude, and space availability.
+Transfers are not automatic and depend on academic standing, suitability for the programme, and availability of space.
 
 </details>
 
@@ -124,11 +129,12 @@ Transfers are not automatic and depend on academic standing, aptitude, and space
 <details>
 <summary><strong>How do I apply for an academic transcript?</strong></summary>
 
-A transcript request is made through the Online Academic Record Request System on the University’s website.
+Transcript requests are submitted through the Online Academic Record Request System on the University’s website.<br><br>
 
-Fees are as follows:
-- Transcript: JA$1,000  
-- Status Letter or Statement: JA$1,000  
+Applicable fees are:<br><br>
+
+- Transcript: JA$1,000<br>
+- Status Letter or Statement: JA$1,000<br><br>
 
 Students with alphanumeric identification numbers must pay at the Accounts Department.
 
@@ -139,10 +145,10 @@ Students with alphanumeric identification numbers must pay at the Accounts Depar
 <details>
 <summary><strong>How do I apply for a change of name?</strong></summary>
 
-To apply for a change of name:
+To request a change of name:<br><br>
 
-1. Complete a Change of Information form  
-2. Submit the form to the Student Records Office located in the Administration Building  
+1. Complete a Change of Information form<br>
+2. Submit the completed form to the Student Records Office in the Administration Building<br><br>
 
 Name changes cannot be processed after a student has left the University.
 
@@ -153,20 +159,11 @@ Name changes cannot be processed after a student has left the University.
 <details>
 <summary><strong>How do I replace my student identification card?</strong></summary>
 
-To replace a lost identification card:
+If your student identification card is lost, you must:<br><br>
 
-1. Pay the JA$1,000 replacement fee at Accounts Receivable  
-2. Take the receipt to the Admissions Office  
-3. Admissions will coordinate with the Safety and Security Department for the replacement  
-
-</details>
-
----
-
-<details>
-<summary><strong>How do I correct incorrect information on my identification card?</strong></summary>
-
-Students should report incorrect information on their identification card to the Admissions Office, which will arrange for a corrected replacement.
+1. Pay the JA$1,000 replacement fee at Accounts Receivable<br>
+2. Take the receipt to the Admissions Office<br>
+3. The Admissions Office will coordinate with the Safety and Security Department for the replacement card<br>
 
 </details>
 
@@ -175,10 +172,10 @@ Students should report incorrect information on their identification card to the
 <details>
 <summary><strong>How do I prepare for graduation?</strong></summary>
 
-To prepare for graduation:
+To prepare for graduation:<br><br>
 
-1. Register using the graduation link on the University’s website  
-2. Make payment for the selected graduation-related services as instructed  
+1. Register using the graduation link available on the University’s website<br>
+2. Make payment for the graduation‑related services you require, as instructed<br>
 
 </details>
 
@@ -187,9 +184,9 @@ To prepare for graduation:
 <details>
 <summary><strong>How many modules must I complete in order to graduate?</strong></summary>
 
-Students are required to complete the prescribed number of credits at each programme level, as outlined in their Course of Study.
+Students must complete the required number of credits at each level of their programme, as outlined in their Course of Study.<br><br>
 
-Students should consult their College or Faculty for specific graduation requirements.
+For specific graduation requirements, students should consult their College or Faculty.
 
 </details>
 
@@ -198,9 +195,9 @@ Students should consult their College or Faculty for specific graduation require
 <details>
 <summary><strong>Can I complete my course of study earlier than scheduled?</strong></summary>
 
-Yes. A student may complete a course of study earlier by increasing their academic credit load.
+Yes.<br><br>
 
-Early completion must be approved by the Academic Advisor or Programme Director.
+Students may complete a programme earlier by increasing their academic credit load, provided this is approved by the Academic Advisor or Programme Director.
 
 </details>
 
@@ -209,7 +206,7 @@ Early completion must be approved by the Academic Advisor or Programme Director.
 <details>
 <summary><strong>What is academic advisement?</strong></summary>
 
-Academic advisement is a structured support system that helps students make informed decisions about their academic progress, including course selection and programme planning.
+Academic advisement is a structured support system that assists students with academic decision‑making, including course selection, programme planning, and progress monitoring.
 
 </details>
 
@@ -218,9 +215,9 @@ Academic advisement is a structured support system that helps students make info
 <details>
 <summary><strong>What is the Faculty or College Academic Advisement Unit?</strong></summary>
 
-The Faculty or College Academic Advisement Unit supports students who require additional academic guidance, including those on academic probation.
+The Faculty or College Academic Advisement Unit provides additional academic support, particularly for students on academic probation.<br><br>
 
-The unit assists with programme restructuring and provides targeted advisement where necessary.
+The unit assists with programme restructuring and targeted advisement when required.
 
 </details>
 
@@ -229,7 +226,7 @@ The unit assists with programme restructuring and provides targeted advisement w
 <details>
 <summary><strong>What happens if a student is underperforming academically?</strong></summary>
 
-Students who fail to maintain satisfactory academic standing may be placed on academic probation.
+Students who fail to maintain satisfactory academic performance may be placed on academic probation.<br><br>
 
 Continued underperformance may result in discontinuation from the course of study.
 
