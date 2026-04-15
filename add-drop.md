@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: Add / Drop Process
+---
+
 # Add / Drop Process – Frequently Asked Questions
 
 Click a question to view the answer.<br>
