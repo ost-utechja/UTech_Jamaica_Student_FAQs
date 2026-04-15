@@ -147,3 +147,72 @@ footer {
     font-size: 1.5em;
   }
 }
+
+/* =========================
+   Dark Mode Theme
+   ========================= */
+
+body.dark-mode {
+  background-color: #0f172a; /* deep navy */
+  color: #e5e7eb;
+}
+
+/* Main content container */
+body.dark-mode main,
+body.dark-mode .content {
+  background-color: #111827;
+}
+
+/* Headings */
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3 {
+  color: #f2b705; /* UTech yellow */
+  border-color: #f2b705;
+}
+
+/* Links */
+body.dark-mode a {
+  color: #93c5fd;
+}
+
+body.dark-mode a:hover {
+  color: #bfdbfe;
+}
+
+/* FAQ cards */
+body.dark-mode details {
+  background-color: #1f2933;
+  border-color: #334155;
+  border-left-color: #f2b705;
+}
+
+body.dark-mode summary {
+  color: #f8fafc;
+}
+
+/* Search box */
+body.dark-mode .search-container input {
+  background-color: #020617;
+  color: #f8fafc;
+  border-color: #f2b705;
+}
+
+/* Chatbot (if enabled) */
+body.dark-mode .chatbot-box {
+  background-color: #020617;
+  border-color: #f2b705;
+}
+
+body.dark-mode .chatbot-header {
+  background-color: #f2b705;
+  color: #020617;
+}
+
+body.dark-mode .chatbot-options a {
+  background-color: #2563eb;
+}
+
+body.dark-mode .chatbot-options a:hover {
+  background-color: #1d4ed8;
+}
