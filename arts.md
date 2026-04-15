@@ -113,6 +113,6 @@ Alternate email: cfa.utechjamaica@gmail.com
 </details>
 
 ---
-theme.jsscript>
+<script src="theme.js"></script>
 
 _Last updated: April 2026_
