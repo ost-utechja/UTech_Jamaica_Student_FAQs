@@ -20,8 +20,8 @@ All undergraduate and postgraduate students must pay the ECD before they can sel
 
 The current ECD amounts are:<br><br>
 
-- Local students: JMD $40,000<br>
-- International students: USD $250<br>
+- Local students: JMD TBC <br>
+- International students: USD TBC<br>
 
 </details>
 
