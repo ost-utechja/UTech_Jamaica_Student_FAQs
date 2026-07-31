@@ -23,9 +23,9 @@ The current ECD amounts are:<br><br>
 Semester 1 <br>
 
 - Local students: JMD $50,000 <br>
-- International students: USD $312 <br>
+- International students: USD $312 <br><br>
 
-Semester 2 <br><br>
+Semester 2 <br>
 
 - Local students: JMD $40,000 <br>
 - International students: USD $250 <br>
