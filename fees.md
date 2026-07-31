@@ -25,7 +25,7 @@ Semester 1 <br>
 - Local students: JMD $50,000 <br>
 - International students: USD $312 <br>
 
-Semester 2 <br>
+Semester 2 <br><br>
 
 - Local students: JMD $40,000 <br>
 - International students: USD $250 <br>
